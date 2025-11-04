@@ -2,8 +2,9 @@
 
 From the OOBE Screen press Shift + F10
 
+# Modified url to grab the script from the forked repo:
 ```
-curl -L christitus.com/bypass -o skip.cmd
+curl -L https://raw.githubusercontent.com/ovskitovski/bypassnro/refs/heads/main/bypass.cmd -o skip.cmd
 skip.cmd
 ```
 
